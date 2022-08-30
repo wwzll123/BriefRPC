@@ -1,2 +1,2 @@
 # BriefRPC
-轻量级的分布式RPC框架
+一款基于spring boot、netty、zookeeper和protostuff的轻量级分布式远程过程调用框架。
