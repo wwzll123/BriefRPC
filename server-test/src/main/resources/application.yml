@@ -1,0 +1,8 @@
+RpcServer:
+  address: 127.0.0.1:8081
+
+register:
+  #注册中心的地址
+  address: 127.0.0.1:2181
+  ZK_SESSION_TIMEOUT: 1000
+  ZK_CONNECTION_TIMEOUT: 500
